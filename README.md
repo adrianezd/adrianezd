@@ -38,11 +38,12 @@ Hey! I'm Adrian Ezquerro, I'm currently studying Development of Cross-Platform A
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 </p>
 
 [![Adrianezd's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianezd)](https://github.com/anuraghazra/github-readme-stats)
+![Adrianezd's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianezd&theme=blue-green)
 
